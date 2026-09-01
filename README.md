@@ -290,8 +290,6 @@ Platform security, delivery automation, and client-side performance across a mic
 
 <img src="https://streak-stats.demolab.com/?user=PalaniSuhas&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A855F7&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" />
 
-<br/>
-
 </div>
 
 ---
@@ -300,17 +298,7 @@ Platform security, delivery automation, and client-side performance across a mic
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/8B5CF6/PalaniSuhas" alt="Contribution Chart" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PalaniSuhas/PalaniSuhas/output/snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/PalaniSuhas/PalaniSuhas/output/snake.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
